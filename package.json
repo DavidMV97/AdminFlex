@@ -1,0 +1,17 @@
+{
+  "name": "adminflex-inicio",
+  "version": "1.0.1",
+  "description": "Admin Flex con flexbox",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "German David",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
