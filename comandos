@@ -1,0 +1,9 @@
+
+
+
+//Comandos utilizados para instalar las dependencias 
+
+
+npm install --save-dev gulp-autoprefixer
+npm install --save-dev gulp-sass
+npm install --save-dev gulp@3.9.1
